@@ -23,17 +23,10 @@
 </p>
 
 <p align='center'>
-  📫 For more details access my portfolio: <a href='https://amorim.surge.sh'>amorim.surge.sh</a>
+   For more details access my portfolio: <a href='https://amorim.surge.sh'>amorim.surge.sh</a>
 </p>
 
 <p align='center'>
   📫 How to reach me: <a href='mailto:lucas.lopes5@hotmail.com'>lucas.lopes5@hotmail.com</a>
 </p>
 
-
-Here are some ideas to get you started:
-
-🔭 I’m currently working on Bellosft how developer front-end and UX Designer Jr...
-🌱 I’m currently learning Vue JS, SASS and UI Design ...
-
--->
