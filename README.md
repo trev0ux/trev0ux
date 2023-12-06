@@ -3,7 +3,7 @@
 </h1>
 
 <p align='center'>
-  A front-end developer and UX/UI designer from Salvador, Bahia, Brazil.
+  A front-end developer from Salvador, Bahia, Brazil.
 </p>
 
 
@@ -23,7 +23,7 @@
 </p>
 
 <p align='center'>
-   For more details access my portfolio: <a href='https://amorim.surge.sh'>amorim.surge.sh</a>
+   For more details access my portfolio: <a href='https://amorim-rho.vercel.app/'>https://amorim-rho.vercel.app/</a>
 </p>
 
 <p align='center'>
