@@ -23,7 +23,7 @@
 </p>
 
 <p align='center'>
-   For more details access my portfolio: <a href='https://amorim-rho.vercel.app/'>https://amorim-rho.vercel.app/</a>
+   For more details access my portfolio: <a href='https://lucas-amorim.me/'>lucas-amorim.me</a>
 </p>
 
 <p align='center'>
